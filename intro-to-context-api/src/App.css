@@ -1,0 +1,8 @@
+body {
+    background: rgb(59, 61, 60);
+    color: azure;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center; 
+}
