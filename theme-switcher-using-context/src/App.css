@@ -1,0 +1,23 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  display: flex;
+  margin: 0;
+  flex-direction: column;
+  flex-wrap: wrap;
+  background-color: rgb(157, 153, 153);
+  justify-content: center;
+  height:100%;
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  margin: 0;
+  height:100vh;
+  justify-content: center;
+}
